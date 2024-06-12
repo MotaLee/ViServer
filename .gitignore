@@ -1,0 +1,14 @@
+# Git忽略名单。
+
+## 文件夹。
+__pycache__
+_gsdata_
+.eide
+.vscode
+
+## 文件类型。
+*.pt
+
+## 单文件。
+conf.cppcheck
+todo.md
